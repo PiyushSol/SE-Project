@@ -1,0 +1,36 @@
+.intro{
+	color:#3F979B; 
+	margin:auto; 
+	font-family:klavika;
+}
+
+.fonttype{
+ font-family:klavika;	
+}
+
+.styles1{
+	padding: 100px;
+	margin:auto;
+}
+
+.styles2{
+	color:#3C79F5;
+	padding:20px 180px;
+	margin:auto;
+}
+
+#create{
+	padding-left:25px;
+	margin-left:150px;
+	margin-right:150px;
+}
+
+footer{
+	font-style:klavika;
+	text-align:center;
+	padding:auto;
+}
+
+body{
+	background-color:#ECF9FF;
+}

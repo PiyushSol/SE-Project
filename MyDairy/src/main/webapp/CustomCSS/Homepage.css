@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+body{
+ 	font-family:klavika;
+}
+
+footer{
+	font-family:klavika;
+	color:#FFFBF5;
+	text-align:center;
+	margin-bottom:5px;	
+}
+
+a {
+  color:#579BB1;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h3{
+	font-family:klavika;
+	color:#FFFBF5;	
+}
